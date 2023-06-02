@@ -2,7 +2,7 @@
  Simplistic Angular application to understand view encapsulation
  [Angular page:](https://angular.io/guide/view-encapsulation)
 
-![Screenshot of Web App](ReadMeImg/Capture.jpg)
+![Screenshot of Web App](ReadMeImg/Capture.JPG)
 
 # Running the application
 
